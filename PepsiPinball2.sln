@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C265A5B6-16DF-18EF-D39A-93F7C4846D22}") = "PepsiPinball2", "Assembly-CSharp.csproj", "{36D7EB1E-9CFF-353E-1A90-CB2651939B88}"
+EndProject
+Project("{C265A5B6-16DF-18EF-D39A-93F7C4846D22}") = "PepsiPinball2", "Assembly-CSharp-Editor.csproj", "{914080AF-B66D-538E-6197-A97ECBD6622E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D7EB1E-9CFF-353E-1A90-CB2651939B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D7EB1E-9CFF-353E-1A90-CB2651939B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D7EB1E-9CFF-353E-1A90-CB2651939B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D7EB1E-9CFF-353E-1A90-CB2651939B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914080AF-B66D-538E-6197-A97ECBD6622E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914080AF-B66D-538E-6197-A97ECBD6622E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914080AF-B66D-538E-6197-A97ECBD6622E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914080AF-B66D-538E-6197-A97ECBD6622E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
